@@ -6,5 +6,5 @@ This is a project done in the Operating Systems course at my college. This proje
 * unsetenv
 * cd
 * history
-* ls
+* ls  
 The code contains comments and printed messages as needed. 
